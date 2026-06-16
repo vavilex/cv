@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /2026.pdf
 Disallow: /cv/
