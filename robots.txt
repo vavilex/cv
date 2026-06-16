@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /cv-va-2026.pdf
+Disallow: /cv/
